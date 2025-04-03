@@ -1,5 +1,7 @@
 {
-  "name": "homepage": "https://daveedsapavat.github.io/portfolio",
+ 
+  "homepage": "https://daveedsapavat.github.io/portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
