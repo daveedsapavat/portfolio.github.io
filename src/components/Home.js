@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import './Home.css';
 import profilePic from '../assets/profile.jpg'; // Ensure profile picture is in the correct path
 // import { Link,  } from 'react-router-dom';
