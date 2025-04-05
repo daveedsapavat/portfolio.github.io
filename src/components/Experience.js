@@ -13,7 +13,7 @@ const experiences = [
   },
   {
     id: 2,
-    title: 'Programming Developer Intern',
+    title: 'Programming Developer Internship',
     company: 'Accenture',
     duration: 'Aug 2022 - Sep 2022',
     description: ' Developed a CRUD-based web application using Java, MySQL, and RESTful APIs. Implemented authentication and session management for secure data handling. Acquired in-depth knowledge and skills of project and software Development. ',

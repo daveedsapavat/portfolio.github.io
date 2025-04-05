@@ -47,10 +47,12 @@ function About() {
         {/* About Content */}
         <div className="about-content">
           <h1 className="typewriter">{text}</h1>
+          <div>
           <p>
             I Am a passionate Full Stack Developer skilled in <b>Java, Spring Boot, React.js, and MySQL</b>.  
             I love building scalable, high-performance web applications. Let’s explore the universe of coding together!
           </p>
+          </div>
           <a href="/resume.pdf" download className="resume-btn">
             <FaDownload className='icon'/>  
             <div> Download Resume </div></a>
