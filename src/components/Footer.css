@@ -96,6 +96,17 @@
       height: 40px;
       font-size: 1.2rem;
     }
+    .whatsapp-link {
+      color: #25D366; /* WhatsApp green */
+      margin: 0 10px;
+      transition: transform 0.3s ease;
+    }
+    
+    .whatsapp-link:hover {
+      transform: scale(1.2);
+      color: #1ebe5d;
+    }
+    
     
   }
   

@@ -10,7 +10,7 @@
     align-items: center;
     text-align: center;
     z-index: 0.5;
-    animation: zoom 10s infinite alternate ease-in-out;
+    /* animation: zoom 10s infinite alternate ease-in-out; */
   }
   
   /* Stars */

@@ -5,7 +5,7 @@ import { FaDownload } from 'react-icons/fa';
 
 function About() {
   const [text, setText] = useState('');
-  const fullText = "I'm DAVEED";
+  const fullText = "Welcome to my portfolio";
 
   useEffect(() => {
     let i = 0;
@@ -48,12 +48,12 @@ function About() {
         <div className="about-content">
           <h1 className="typewriter">{text}</h1>
           <p>
-            A passionate Full Stack Developer skilled in <b>Java, Spring Boot, React.js, and MySQL</b>.  
+            I Am a passionate Full Stack Developer skilled in <b>Java, Spring Boot, React.js, and MySQL</b>.  
             I love building scalable, high-performance web applications. Let’s explore the universe of coding together!
           </p>
-          <a href="public\resume.pdf" download className="resume-btn">
+          <a href="/resume.pdf" download className="resume-btn">
             <FaDownload className='icon'/>  
-            Download Resume</a>
+            <div> Download Resume </div></a>
         </div>
       </div>
     </section>

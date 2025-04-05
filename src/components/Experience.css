@@ -12,11 +12,14 @@
     z-index: 0.5;
     animation: zoom 10s infinite alternate ease-in-out;
   }
+  .iss-background{
+    animation: zoom 10s infinite alternate ease-in-out;
+  }
   
   /* Experience Heading */
   .experience-heading {
     font-size: 2.5rem;
-    color: #b19cd9;
+    color: whitesmoke;
     margin-bottom: 40px;
   }
   
@@ -72,6 +75,7 @@
   .experience-card .description {
     font-size: 0.95rem;
     line-height: 1.5;
+    width: fit-content;
   }
   
   /* Mobile Responsiveness */
