@@ -28,7 +28,7 @@ function Footer() {
           <FaEnvelope className="icon" />
         </a>
 
-        <a href="tel:+919876543210" className="phone-icon">
+        <a href="tel:+919000123491" className="phone-icon">
           <FontAwesomeIcon icon={faPhoneAlt} size="2x"  className='icon' />
         </a>
 
@@ -39,11 +39,11 @@ function Footer() {
           <FaPhone number="+91 9000123491" className='icon' /> 
            </a> */}
         
-           <a href="https://wa.me/919876543210" // Replace with your WhatsApp number
+           <a href="https://wa.me/919000123491" // Replace with your WhatsApp number
               target="_blank"
               rel="noopener noreferrer"
                className="icon" >
-          <FontAwesomeIcon icon={faWhatsapp} size="2x"  className='icon'/>
+            <FontAwesomeIcon icon={faWhatsapp} size="2x"  className='icon'/>
           </a>
 
 
